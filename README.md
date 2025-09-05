@@ -10,11 +10,12 @@ A Python-based [wplace.live](https://wplace.live) helper 💖
 - 🚧 More features coming soon...
 
 ## 🚀 Installation
-**Python version required ： 3.10+**
-**Recommend runing on virtual enviroment**
+**Python version required ： 3.10+**  
+**Recommend runing on virtual enviroment**  
 Step:  
 1. Clone the project to your local direction
 2. run run.bat
+
 ## 😿 License
 This project is licensed under the MIT License
 
