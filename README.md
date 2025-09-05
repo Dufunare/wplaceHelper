@@ -10,12 +10,11 @@ A Python-based [wplace.live](https://wplace.live) helper 💖
 - 🚧 More features coming soon...
 
 ## 🚀 Installation
-```bash
-git clone https://github.com/username/wplaceHelper.git
-cd wplaceHelper
-pip install -r requirements.txt
-python wplaceHelper.py
-```
+**Python version required ： 3.10+**
+**Recommend runing on virtual enviroment**
+Step:  
+1. Clone the project to your local direction
+2. run run.bat
 ## 😿 License
 This project is licensed under the MIT License
 
