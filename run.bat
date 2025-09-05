@@ -18,7 +18,7 @@ IF NOT EXIST "%VENV_DIR%" (
 
 REM 激活虚拟环境
 echo 激活虚拟环境...
-call %VENV_DIR%\Scripts\activate.ps1
+call %VENV_DIR%\Scripts\activate.bat
 
 REM 安装依赖
 echo 安装依赖...
