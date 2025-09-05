@@ -1,3 +1,4 @@
+🌐 Available languages: [English](README.md) | [中文](README.zh.md)
 # wplaceHelper
 A Python-based [wplace.live](https://wplace.live) helper 💖
 
